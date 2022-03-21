@@ -1,0 +1,25 @@
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.deps.json
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.dll
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.pdb
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.AssemblyInfo.cs
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.dll
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.pdb
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.runtimeconfig.json
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.genruntimeconfig.cache
+C:\Users\HP\Desktop\TechUnicorn\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.csproj.AssemblyReference.cache
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.deps.json
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.runtimeconfig.json
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.runtimeconfig.dev.json
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.dll
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\bin\Debug\netcoreapp3.1\EmailBot.Common.pdb
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.csproj.AssemblyReference.cache
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.AssemblyInfoInputs.cache
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.AssemblyInfo.cs
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.dll
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.pdb
+C:\Users\Hiba\Desktop\Tech Unicorn\EmailBotLatest\EmailBot\EmailBot.Common\obj\Debug\netcoreapp3.1\EmailBot.Common.genruntimeconfig.cache
