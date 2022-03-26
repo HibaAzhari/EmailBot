@@ -22,7 +22,7 @@ namespace EmailBot.Common.Helpers
 
             var smtpClient = new SmtpClient
             {
-                Credentials = new NetworkCredential("hiba@hibaazhari.onmicrosoft.com", "Zi7Minni99"),
+                Credentials = new NetworkCredential("hiba@hibaazhari.onmicrosoft.com", ""),
                 Host = "smtp.office365.com",
                 Port = 587
             };
